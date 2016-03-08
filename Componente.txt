@@ -1,1 +1,1 @@
-Motor, Senzor de proxemitate, Senzor RF - id, RF-id, Roti, 
+Motor, Senzor de proxemitate, Senzor RF - id, RF-id, Roti, tranzistoare, microcontroller C, multimetru, pistol de lipit, soclu pentru circuite 
