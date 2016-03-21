@@ -2,7 +2,7 @@
 -tranzistor MOSFET
 -baliza sonora
 -microcontroller
--RFID tags (4)
+-RFID tags (6)
 -RFID reader
 -dioda schottky
 -rezistoare(3x10k, 1*1k)
