@@ -1,10 +1,10 @@
--tranzisotr npn
--tranzistor MOSFET
+-tranzisotr npn BC817
+-tranzistor MOSFET SI4562Y
 -baliza sonora
 -microcontroller
 -RFID tags (6)
 -RFID reader
--dioda schottky
+-dioda schottky SS14
 -rezistoare(3x10k, 1*1k)
 -placuta circuit
 -senzor proximitate
